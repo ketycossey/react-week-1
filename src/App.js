@@ -1,15 +1,15 @@
 import React, { Component } from "react";
+import logo from "./logo.svg";
 import "./App.css";
-import Welcome from "./Welcome";
+import Counter from "./Counter";
 
 class App extends Component {
   render() {
     return (
-      <>
-        <Welcome />
-      </>
+      <div>
+        <Counter />
+      </div>
     );
   }
 }
-
 export default App;
