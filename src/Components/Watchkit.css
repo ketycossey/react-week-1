@@ -1,0 +1,21 @@
+.watchkit {
+  background-color: white;
+  list-style: none;
+  color: black;
+  flex-direction: row;
+  font-size: 12px;
+  margin: 15px 30px;
+  display: inline-block;
+  margin-top: 10px;
+  margin-left: 50px;
+  font-size: 1.5rem;
+}
+#header {
+  color: blue;
+  font-size: 16px;
+}
+.commentbar {
+  color: white;
+  background-color: orange;
+  height: 30px;
+}

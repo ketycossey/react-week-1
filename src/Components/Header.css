@@ -1,0 +1,8 @@
+.navBar {
+  background-color: #4c8bef;
+  width: 100%;
+  color: white;
+  display: inline-block;
+  height: 75px;
+  list-style: none;
+}

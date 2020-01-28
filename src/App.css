@@ -1,34 +1,6 @@
 .App {
-  text-align: center;
-  align-content: center;
-  margin: 0px;
-}
-.counterBox {
-  padding: 10px;
-  display: flex;
-  height: 30vh;
-  width: 40vw;
-  background-color: lightgray;
-  text-align: center;
-}
-.starter {
-  padding: 10px;
-  height: 10vh;
-  width: 20vw;
-  align-self: center;
-}
-.addOne {
-  background-color: green;
-  border-radius: 50%;
-  height: 15vh;
-  width: 15vw;
-  padding: 10px;
-}
-.minusOne {
-  border-radius: 50%;
-  display: flex;
-  background-color: red;
-  height: 15vh;
-  width: 15vw;
-  padding: 10px;
+  background-color: white;
+  font-size: 14px;
+  font-family: Helvetica, sans-serif;
+  margin: 0;
 }
